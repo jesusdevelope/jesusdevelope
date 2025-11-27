@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Jesús Romero 👋
 
 🥼⚛️ **Medical Physicist** <br>
 🤖📊 **Machine Learning Scientist Student** <br>
