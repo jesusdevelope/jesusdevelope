@@ -8,5 +8,3 @@
 
 
 ### :zap: Actividad reciente
-\<!--RECENT\_ACTIVITY:start-->
-\<!--RECENT\_ACTIVITY:last\_update-->
