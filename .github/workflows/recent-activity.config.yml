@@ -1,0 +1,7 @@
+.github/recent-activity.config.yml
+Esto establece la configuración por defecto, lo mínimo necesario
+ para que la acción no falle buscando el archivo.
+core:
+  Puedes añadir opciones aquí si lo deseas, como el número de elementos.
+  limit: 10
+  exclude_events: ['WatchEvent']
